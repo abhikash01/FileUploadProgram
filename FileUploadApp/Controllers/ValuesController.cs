@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace FileUploadProgram.Controllers
+namespace FileUploadApp.Controllers
 {
     public class ValuesController : ApiController
     {
